@@ -10,7 +10,7 @@ import time
 import pathlib
 import requests
 import cv2
-import pytesseract #type:ignore
+import pytesseract 
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
